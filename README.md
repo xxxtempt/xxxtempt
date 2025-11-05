@@ -1,4 +1,4 @@
-
+![Scan to connect](ascii-art-text.png)
 
 ## 👋🏽 About Me
 
@@ -71,6 +71,8 @@ With 6+ years of experience across Amazon, Microsoft/Xbox, Capital One, and Gold
 🔗 [Linktr.ee](https://linktr.ee/douglas_alvarez)
 
 ## 📲 Scan to Connect
+
+![Scan to connect](qrcode.png)
 
 
 ---
