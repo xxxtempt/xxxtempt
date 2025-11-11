@@ -64,7 +64,7 @@ With 6+ years of experience across Amazon, Microsoft/Xbox, Capital One, and Gold
 > “I bring precision, empathy, and strategic thinking to every workflow—ready to add value from day one.”
 
 
-📞 +(506) 8987-8541 | +(506) 7165-4627  
+📞 +(506) 7165-4627  
 📧 bernardcontact96@gmail.com  
 🌎 Costa Rica  
 🔗 [LinkedIn](http://www.linkedin.com/in/douglas-alvarez-csr)  
@@ -86,3 +86,5 @@ With 6+ years of experience across Amazon, Microsoft/Xbox, Capital One, and Gold
 ---
 
 ## 🌿 We are Pura vida
+<img width="491" height="127" alt="image" src="https://github.com/user-attachments/assets/7c5167bb-31b8-4b01-a6d2-dd917fd28f01" />
+
