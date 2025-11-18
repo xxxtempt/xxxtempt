@@ -11,143 +11,54 @@
 ⠀⠀⠀⠀⠀⠀⠈⠉⠉⠐⠒⠒⠒⠒⠒⠒⠒⠒⠒⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀
 ```
 
-## 🎯 **DOUGLAS ÁLVAREZ: THE OPERATIONAL WEAPON**
+# 💼 Douglas Álvarez | Strategic Operations & Program Specialist
 
-*He/Him/His | Costa Rica | Bernar******@gmail.com | +(506) 7165-4627*
-
-> **"I don't just manage workflows—I *dominate* high-stakes operations. Precision, empathy, and strategic thinking are my arsenal, delivering guaranteed value from day one. You want an executive specialist? You got one, pal."**
+**Executive Operations Leader Pivoting to Project Management (AI & Data Focused)**
 
 ---
 
-## 🔥 **The Pitch: Why You Need This Guy**
+## 🚀 LIVE INTERACTIVE PROFILE [https://xxxtempt.github.io/index/]
 
-I'm an **Executive Support and Operations Specialist** with over **6 years of battlefield experience** across the most demanding firms on the planet: **Amazon, Microsoft/Xbox, Capital One, and Goldman Sachs**. I cut through complexity and **guarantee security** in every damn transaction. Remote or on-site, I blend **uncompromising precision** with strategic business empathy.
-
-I'm currently **leveling up** in AI, Project Management, and Data Analytics—because resting on your laurels is for bums. I'm building tomorrow's strategic initiatives *today*.
 
 ---
 
-## 💥 **IMPACT & CORE COMPETENCIES** 🚀
+## 🎯 KEY VALUE PROPOSITION
 
-This ain't just *support*. This is **Mission Control.**
+High-precision Operations Specialist with over 6 years of experience managing high-stakes workflows, executive escalations, and complex risk compliance for global industry leaders like **Amazon, Microsoft, and Goldman Sachs**.
 
-* **FRAUD & RISK COMMAND:** **Crush** SLA-driven fraud investigations, handling 80+ daily high-risk tasks with verifiable accuracy and **zero margin for error.**
-* **EXECUTIVE ESCALATION NINJA:** **Resolve** the most politically sensitive, executive-level conflicts and regulatory inquiries. I don't just solve problems; I **erase** them.
-* **GLOBAL ADVOCACY:** **Deliver** elite bilingual support (English/Spanish/Italian/French) across massive global platforms, ensuring absolute compliance and customer trust.
-* **OPERATIONAL BLUEPRINTING:** **Document** and **streamline** complex workflows, driving cross-functional collaboration that cuts waste and boosts efficiency.
-* **STRATEGIC ACQUISITION:** Actively mastering Python, AI, and PM to transition from elite operator to **strategic initiative leader.**
+I deliver **elite SLA standards** and decisive resolution strategies. I am currently transitioning my deep operational expertise into **Project Management and AI Strategy**, leveraging certifications in Python, Data Analytics, and Six Sigma to drive business innovation and process optimization.
 
 ---
 
-## 🛠️ **THE HIGH-PERFORMANCE TOOLBOX** ⚙️
+## 🌟 CORE ACCOMPLISHMENTS (Highlights)
 
-| Category | Skill/Tool | Proficiency |
+* **Risk & Compliance (Amazon):** Commanded high-volume fraud investigations, processing **80+ daily high-risk tasks** with near-zero error rates, directly protecting Amazon’s global payment ecosystem.
+* **Executive Advocacy (Microsoft/Xbox):** Resolved the most critical executive-level escalations, including Better Business Bureau (BBB) claims and legal threats, **securing brand reputation** through empathetic, decisive action.
+* **Process Improvement:** Architected new workflow documentation and training materials, **standardizing the escalation process** for the entire support team, significantly reducing resolution times.
+* **Technical Upskilling:** Completed foundational certifications in Artificial Intelligence, Python for Data Science, Data Visualization, and Machine Learning (all verified via IBM SkillsBuild/Coursera).
+
+---
+
+## 🛠️ TECHNICAL & STRATEGIC SKILLS
+
+| OPERATIONAL STRATEGY | PROJECT MANAGEMENT | DATA & AI FOCUS |
 | :--- | :--- | :--- |
-| **EXECUTIVE OPERATIONS** | Executive Support | **EXPERT (6+ YRS)** 🏆 |
-| **FINANCIAL DEFENSE** | Fraud Risk Management | **ADVANCED** 🛡️ |
-| **PROJECT COMMAND** | Project Management (Cert.) | **ADVANCED** 📈 |
-| **REGULATORY ARMOR** | Regulatory Compliance | **ADVANCED** ⚖️ |
-| **CUSTOMER STRATEGY** | CX Strategy | **ADVANCED** 🤝 |
-| **TECHNOLOGY (NEXT GEN)** | Python, Data Vis., AI | **BEGINNER (RAPID GROWTH)** 💡 |
-| **GLOBAL REACH** | English, Spanish, Italian, French | **FLUENT** 🌍 |
+| Executive Escalation Management | Agile & Six Sigma Principles (Black Belt Prep) | Python (Data Science/Visualization) |
+| Fraud Investigation (AML/KYC) | Workflow Documentation & Standardization | Artificial Intelligence Fundamentals (IBM) |
+| Regulatory Compliance | Cross-Functional Leadership & Mentoring | IBM Watson Studio & Data Refinement |
+| CX Strategy & Advocacy | Stakeholder Relationship Management | Advanced Bilingual Communication |
 
 ---
 
-### **Badges & Shields** ![Executive Support](https://img.shields.io/badge/Executive_Support-Expert-informational)
-![Fraud Risk Management](https://img.shields.io/badge/Fraud_Risk-Advanced-critical)
-![Project Management](https://img.shields.io/badge/Project_Management-Advanced-blue)
-![Python](https://img.shields.io/badge/Python-Beginner-yellow)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-Beginner-green)
-![Regulatory Compliance](https://img.shields.io/badge/Compliance-Advanced-success)
-![Customer Experience](https://img.shields.io/badge/CX_Strategy-Advanced-brightgreen)
-![Multilingual](https://img.shields.io/badge/English_&_Spanish_&_Italian_&_French-Fluent-orange)
+## 📜 VERIFIABLE CREDENTIALS
+
+* **Project Management:** Foundations of Project Management (Google), Org Planning for the Six Sigma Black Belt (Kennesaw State University), Agile Explorer (IBM).
+* **AI/Data:** Artificial Intelligence Fundamentals (IBM), Python for Data Science (IBM), Data Visualization Using Python (IBM), Machine Learning with Python L1 (IBM).
+* **Core:** EF SET English Certificate – C1 Advanced.
 
 ---
 
-## 🛣️ **CAREER DOMINATION HIGHLIGHTS** 🌟
-
-### 🛡️ **Amazon – Payment Risk Operations (The Wall)**
-* **Spearheaded** investigations into high-risk accounts, **fortifying** Amazon's payment ecosystem.
-* **Maintained** iron-clad SLA and compliance metrics across complex global regulatory platforms.
-* **Collaborated** to refine fraud protocols, **elevating** customer trust and transaction security.
-
-### 🎮 **Microsoft/Xbox – Executive Relationship Manager (The Closer)**
-* **Single-handedly resolved** executive-level escalations and regulatory claims. I **secured** the brand reputation.
-* **Created** official workflow documentation and **mentored** new hires, scaling team capacity.
-* **Strengthened** brand reputation by delivering secure, final-stage resolution.
-
-### 🏦 **Capital One & Goldman Sachs – Support Roles (The Foundation)**
-* **Executed** bilingual banking support and **managed** rapid fraud recovery efforts.
-* **Streamlined** compliance documentation and **maximized** customer financial education.
-
----
-
-## **Education & Certifications: Driven to Learn** 🎓
-
-### Bachelor's Studies in Law (In Progress)
-- Universidad Fidelitas
-- Specialized in legal frameworks, compliance, and regulatory systems.
-- Enhanced analytical thinking skills and ethical decision-making abilities.
-
-### Bachelor's Studies in Social Communication (2017-2018)
-- UAM (Universidad Americana de Costa Rica)
-- Emphasis on media literacy, public discourse, and persuasive communication.
-- Developed skills in storytelling, audience engagement, and cultural analysis.
-
-### Fundamentos de Inteligencia Artificial | Online Certification
-- Guayerd
-- Completed a foundational course in Artificial Intelligence, exploring key concepts such as machine learning, neural networks, natural language processing, and ethical AI design.
-- Applied concepts through interactive labs and IBM tools.
-
----
-
-## **Key Certifications** 🏅
-
-- **EF SET English Certificate – C1 Advanced**
-  - Verify at: [EF SET Certificate](https://cert.efset.org/BwbN4K)
-- **Foundations of Project Management**
-  - Verify at: [Coursera Certificate](https://coursera.org/verify/HM53GRP6QPES)
-- **Clean, Refine, and Visualize Data with IBM Watson Studio**
-  - Completion date: 01 Oct 2025
-  - Awarded: [IBM Watson Studio Certificate](https://coursera.org/verify/R04X7PO3603C)
-- **Organization Planning and Development for the 6$\sigma$ Black Belt**
-  - Verify at: [Coursera Certificate](https://coursera.org/verify/R04X7PO3603C)
-- **Building the Reputation and Skills to Become a First-Time Manager**
-  - LinkedIn Learning
-- **Foundations of Performance Management**
-  - LinkedIn Learning
-
----
-
-## **IBM SkillsBuild Badges** 💻
-
-- **Agile Explorer**
-  - Issued by: IBM SkillsBuild | Issued on: 28 August 2025
-  - Description: Demonstrates foundational understanding of Agile values, principles, and practices.
-
-- **Artificial Intelligence Fundamentals**
-  - Issued by: IBM SkillsBuild | Issued on: 25 September 2025
-  - Description: Demonstrates knowledge of AI concepts, ethics, and applications using IBM Watson Studio.
-
-- **Data Fundamentals**
-  - Issued by: IBM SkillsBuild | Issued on: 1 October 2025
-  - Description: Demonstrates knowledge of data analytics concepts and tools used in the data ecosystem.
-
-- **Project Management Fundamentals**
-  - Issued by: IBM SkillsBuild | Issued on: 2 October 2025
-  - Description: Demonstrates foundational understanding of project management concepts and processes.
-
-- **Python for Data Science**
-  - Issued by: IBM | Issued on: 7 October 2025
-  - Description: Demonstrates ability to write Python scripts and perform basic data analysis using IBM's Jupyter-based lab environment.
-
-- **Data Visualization Using Python**
-  - Issued by: IBM | Issued on: 14 October 2025
-  - Description: Demonstrates understanding of Python libraries for data visualization.
-
-- **Machine Learning with Python - Level 1**
-  - Issued by: IBM | Issued on: 2 November 2025
-  - Description: Demonstrates understanding of supervised vs. unsupervised learning and building machine learning models.
+[Linktr.ee Profile]
 
 ---
 
